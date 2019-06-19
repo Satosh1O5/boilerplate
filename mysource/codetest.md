@@ -6,3 +6,10 @@ function test(){
 }
 
 ```
+
+``` java
+public static void main(){
+    system.out.println("Hello Java World");
+}
+
+```
